@@ -47,4 +47,4 @@ In this scenario, automl gave us the best results as compared with that of hyper
 ## Proof of cluster clean up
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
 **Image of cluster marked for deletion**
-![Alt text](./images/cluster_delete.png)
+![Alt text](./image/cluster_delete.png)
